@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  #log,
+  #state {
+    width: 500px;
+    height: 50px;
+    border: 1px solide black;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: #ffa500;
+    border-radius: 10px;
+  }
+  
+  .button-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+  }

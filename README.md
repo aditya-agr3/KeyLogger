@@ -19,12 +19,12 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/keylogger-app.git
+git clone https://github.com/aditya-agr3/KeyLogger
 Navigate to the project directory:
 
 bash
 Copy code
-cd keylogger-app
+cd KeyLogger
 Open the index.html file in your web browser: You can simply double-click the index.html file or open it with a web server of your choice.
 
 Usage
